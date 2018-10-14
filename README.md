@@ -118,4 +118,62 @@ Graph Algorithms
 mycodeschool(part [basics](https://www.youtube.com/watch?v=gXgEDyodOJU&index=39&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&t=0s) and [properties](https://www.youtube.com/watch?v=AfYqN3fGapc&index=40&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&t=0s) {highly recommended})
 * Graph representation using [edge list, adjacency matrix, adjacency
 lists](https://www.youtube.com/watch?v=k1wraWzqtvQ&index=43&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&t=0s) and [incidence matrix](https://en.wikipedia.org/wiki/Incidence_matrix).
+* Graph Transversal (BFS & DFS [watch](https://www.youtube.com/watch?v=zaBhtODEL0w), [visualize](https://visualgo.net/en/dfsbfs?slide=1) and
+implementation[BFS](https://brilliant.org/wiki/breadth-first-search-bfs/) & [DFS](https://brilliant.org/wiki/depth-first-search-dfs/)). Problems on [BFS](http://www.spoj.com/problems/tag/bfs) & [DFS](http://www.spoj.com/problems/tag/dfs).
+* [Strongly Connected Components](https://www.youtube.com/watch?v=5wFyZJ8yH9Q)
+* [Biconnectivity](https://www.youtube.com/watch?v=UTgfSPQpJDw), [Tarzan’s algorithm](https://www.youtube.com/watch?v=zxa4ZXnbMVw)([visualization](https://commons.wikimedia.org/wiki/File:Tarjan%27s_Algorithm_Animation.gif)) for finding bridges.
+* Dijkstra’s Algorithm ([watch](https://www.youtube.com/watch?v=GazC3A4OQTE), [visualize](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html) and [implement](https://www.youtube.com/watch?v=d6ZFqjH63vo)  [example](https://www.youtube.com/watch?v=0nVYi3o161A))
+* Bellman Ford algorithm ([watch](https://www.youtube.com/watch?v=lyw4FaxrwHg), [visualize with example](https://www-m9.ma.tum.de/graph-algorithms/spp-bellman-ford/index_en.html))
+* Floyd–Warshall Algorithm ([watch](https://www.youtube.com/watch?v=KQ9zlKZ5Rzc), [visualize](https://www.youtube.com/watch?v=VoNMulNisiU) ([another](https://www.cs.usfca.edu/~galles/visualization/Floyd.html)) and [implement](https://rosettacode.org/wiki/Floyd-Warshall_algorithm)
+and [on undirected path](https://www.youtube.com/watch?v=B06q2yjr-Cc).
+* Directed Acyclic Graphs ([Topological Sort](https://www.youtube.com/watch?v=eL-KzMXSXXI) and [implementation](https://en.wikipedia.org/wiki/Topological_sorting))
+[Dynamic Programming](https://www.youtube.com/watch?v=NbsnlRMrOOw) for shortest path.
+* Minimum Spanning Trees ([watch](https://www.youtube.com/watch?v=tKwnms5iRBU)). [Prim and Kruskal Visualization](https://visualgo.net/en/mst)
+* [Euler’s tour algorithm](https://www.youtube.com/watch?v=1V_6nUUNoms).
+* [Maximum flow using Ford Fulkerson Method](https://www.youtube.com/watch?v=sSgI072tN5k).
 
+
+******
+
+
+Algorithms Design Topics
+------------------------
+* Bit-Parallel Algorithms ([Hamming Distances](https://www.youtube.com/watch?v=4ZqIddyXK9o)), ([Counting Subgrids](https://www.youtube.com/watch?v=M8BYckxI8_U))
+* [Amortized Analysis](https://www.youtube.com/watch?v=3MpzavN3Mco)
+* Ternary Search ([read](https://en.wikipedia.org/wiki/Ternary_search) and [implement](https://www.youtube.com/watch?v=JaO8cU9WlWg))
+
+
+******
+
+
+Tree Algorithms
+---------------
+* [Introduction](https://www.youtube.com/watch?v=qH6yxkw0u78&t=0s&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26) ([mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P))
+* Tree transversal ([Binary tree transversal](https://www.youtube.com/watch?v=gm8DUJJhmY4)) ([DP](https://www.youtube.com/playlist?list=PLfBJlB6T2eOsET4tlfcLs7oXR7kCyt1xc)) ([wiki](https://en.wikipedia.org/wiki/Tree_traversal))
+* Diameter of the binary tree ([in O(n) time](https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/)) ([watch](https://www.youtube.com/watch?v=aqfTvKWWHWI))
+* Lowest common ancestor in tree on O(1). ([watch](https://www.youtube.com/watch?v=HeeyUZmaZg0))
+* Centroid decomposition ([watch](https://www.youtube.com/watch?v=-Lgda-6_AiY)) ([read](https://www.geeksforgeeks.org/centroid-decomposition-of-tree/)) ([problems](http://codeforces.com/blog/entry/52492))
+* Heavy light decomposition ([advanced](https://www.youtube.com/watch?v=nDLe6_sPSfs)) ([read](https://wcipeg.com/wiki/Heavy-light_decomposition))
+
+
+******
+
+
+Mathematics
+-----------
+* Read whole book ‘[Elementary Number Theory with Programming](https://github.com/czgdp1807/resourcesandproblems/blob/master/Elementary%20Number%20Theory%20with%20Programming.pdf)’.
+* [Watch](https://www.youtube.com/watch?v=CCr-p1tInwQ) this if you have less time. A video by O’Reilly.
+* Game theory [intro](https://www.youtube.com/watch?v=JT8ZuJey3s0). [NIM game](https://www.youtube.com/watch?v=niMjxNtiuu8). Spragur-Grundy theorem.([watch](https://www.youtube.com/watch?v=GRlGknQEOW8))
+
+
+******
+
+
+Advanced Graph Algorithms
+-------------------------
+* Strong Connectivity - ​[Kosaraju’s Algorithm](https://www.youtube.com/watch?v=9Wbej7Fy5Lw) ([wiki](https://en.wikipedia.org/wiki/Kosaraju%27s_algorithm)), 2SAT Problem
+([watch](https://www.youtube.com/watch?v=0nNYy3rltgA) approx. 2hr)
+* Complete Paths - Eulerian Paths ([basics](https://www.youtube.com/watch?v=AwsMTEl79wI)) ([wiki](https://en.wikipedia.org/wiki/Eulerian_path)), Hamiltonian Path
+([basics](https://www.youtube.com/watch?v=9Fdn17CNy2U)) ([wiki](https://en.wikipedia.org/wiki/Hamiltonian_path)), Applications - De Bruijn sequence([watch](https://www.youtube.com/watch?v=iPLQgXUiU14)), Knight’s
+tour([numberphile](https://www.youtube.com/watch?v=ab_dY3dZFHM))
+* Maximum Flows - ([MIT](https://www.youtube.com/watch?v=VYZGlgzr_As)) ([Ford–Fulkerson Algorithm](https://www.youtube.com/watch?v=Tl90tNtKvxs))
